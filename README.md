@@ -7,3 +7,4 @@ Operation Selection : Swithes 9 to 7
 
 Input B : Swithes 5 to 0
 
+Leds 5 to 0 : Operation Output (6 bit), LED6 : Carry or Borrow Flag
